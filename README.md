@@ -11,7 +11,7 @@ sh ncsv/inst.sh #compile (cd ncsv/extension/sv_helper && python setup.py build_e
 
 ## Getting Started
 
-Ncsv use a run_svp.py(https://github.com/GenePlus/ncsv/blob/master/bin/run_sv.py) file as a start step.
+Ncsv use a [run_sv.py](https://github.com/GenePlus/ncsv/blob/master/bin/run_sv.py) file as a start step.
 ```
 python2 bin/run_sv.py [-h] 
         [-S SAMPLE] -t TMP -r REF -H HOTREGION
