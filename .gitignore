@@ -1,0 +1,13 @@
+/*
+!/lib/
+!/extension/
+/lib/*egg*
+
+!.gitignore
+!setup*
+!inst.sh
+!README.md
+
+*.pyc
+*.o
+*nfs*
