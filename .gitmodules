@@ -1,0 +1,3 @@
+[submodule "extension/sv_helper"]
+	path = extension/sv_helper
+	url = git@10.0.1.7:Software/sv_helper.git
